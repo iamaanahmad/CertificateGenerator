@@ -1,11 +1,11 @@
 # AI Certificate Generator 🎓✨
 
-![AI Certificate Generator Showcase](https://i.imgur.com/gO1wB8r.gif)
+![AI Certificate Generator Showcase](https://i.ibb.co/BVt1NcNT/image.png)
 
 A powerful, open-source web application for creating, customizing, and bulk-generating professional certificates. Leveraging the Google Gemini API, this tool automates content creation and provides a seamless, real-time editing experience.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Tech Stack](https://img.shields.io/badge/tech-React%20%7C%20TypeScript%20%7C%20Tailwind-blueviolet)](README.md#%-tech-stack)
+[![Tech Stack](https://img.shields.io/badge/Tech-React%20%7C%20TypeScript%20%7C%20Tailwind-blueviolet)](README.md#%-tech-stack)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](README.md#-contributing)
 
 
@@ -44,8 +44,8 @@ You will need a Google Gemini API key.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/ai-certificate-generator.git
-   cd ai-certificate-generator
+   git clone https://github.com/iamaanahmad/CertificateGenerator.git
+   cd CertificateGenerator
    ```
 
 2. **API Key Configuration:**
